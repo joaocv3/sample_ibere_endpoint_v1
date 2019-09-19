@@ -81,6 +81,18 @@
         "email": "museupuc@museupuc.com",
         "telefone": "125143",
         "observacoes": "obs do museu puc"
+        }, {
+        "id": 4,
+        "nome": "Santander Cultural",
+        "endereco": "Rua 7 de Setembro, 1028",
+        "aberto": false,
+        "tempo_visita": 444,
+        "descricao": "O Santander conta com diversas ações institucionais, programas e projetos, além de dois centros de cultura, empreendedorismo e lazer: o Farol Santander São Paulo e o Farol Santander Porto Alegre",
+        "latitude": "123445",
+        "longitude": "63435",
+        "email": "museupuc@museupuc.com",
+        "telefone": "125143",
+        "observacoes": "obs do museu puc"
         }
       ]
     }
