@@ -2,11 +2,11 @@
     "instituicoes": [
       {
         "id": 1,
-        "nome": "Fundação Iberê Camargo",
+        "nome": "Fundação Iberê",
         "endereco": "Av. Padre Cacique, 2000",
         "aberto": true,
         "tempo_visita": 1234,
-        "descricao": "Fundação Iberê Camargo, sediada na cidade brasileira de Porto Alegre, é uma entidade cultural que tem como objetivos a preservação, o estudo e a ...",
+        "descricao": "Fundação Iberê, sediada na cidade brasileira de Porto Alegre, é uma entidade cultural que tem como objetivos a preservação, o estudo e a ...",
         "latitude": "-30.077837",
         "longitude": "-51.245458",
         "email": "ibere@ibere.com",
