@@ -12,7 +12,7 @@
         "email": "ibere@ibere.com",
         "telefone": "1234125143",
         "observacoes": "obs do ibere",
-       "social_media": [
+        "social_media": [
 				"facebook",
 				"instagram",
 				"anyOther"
@@ -135,7 +135,7 @@
         "email": "museupuc@museupuc.com",
         "telefone": "125143",
         "observacoes": "obs do museu puc",
-         "social_media": [
+        "social_media": [
 				"facebook",
 				"instagram",
 				"anyOther"
@@ -197,7 +197,7 @@
         "email": "museupuc@museupuc.com",
         "telefone": "125143",
         "observacoes": "obs do museu puc",
-         "social_media": [
+        "social_media": [
 				"facebook",
 				"instagram",
 				"anyOther"
