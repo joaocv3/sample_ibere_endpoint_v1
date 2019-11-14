@@ -13,9 +13,15 @@
         "telefone": "1234125143",
         "observacoes": "obs do ibere",
         "social_media": [
-				"facebook",
-				"instagram",
-				"anyOther"
+		{
+				"facebook": "www.facebook.com",
+		},
+		{
+				"instagram": "www.instagram.com",
+		},
+		{
+				"anyOther": "www.google.com"
+		}
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -74,9 +80,15 @@
         "telefone": "125143",
         "observacoes": "obs do museu puc",
         "social_media": [
-				"facebook",
-				"instagram",
-				"anyOther"
+		{
+				"facebook": "www.facebook.com",
+		},
+		{
+				"instagram": "www.instagram.com",
+		},
+		{
+				"anyOther": "www.google.com"
+		}
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -136,9 +148,15 @@
         "telefone": "125143",
         "observacoes": "obs do museu puc",
         "social_media": [
-				"facebook",
-				"instagram",
-				"anyOther"
+		{
+				"facebook": "www.facebook.com",
+		},
+		{
+				"instagram": "www.instagram.com",
+		},
+		{
+				"anyOther": "www.google.com"
+		}
         ],  
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -198,9 +216,15 @@
         "telefone": "125143",
         "observacoes": "obs do museu puc",
         "social_media": [
-				"facebook",
-				"instagram",
-				"anyOther"
+		{
+				"facebook": "www.facebook.com",
+		},
+		{
+				"instagram": "www.instagram.com",
+		},
+		{
+				"anyOther": "www.google.com"
+		}
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
