@@ -12,16 +12,10 @@
         "email": "ibere@ibere.com",
         "telefone": "1234125143",
         "observacoes": "obs do ibere",
-        "social_media": [
-		{
-				"facebook": "www.facebook.com",
-		},
-		{
-				"instagram": "www.instagram.com",
-		},
-		{
-				"anyOther": "www.google.com"
-		}
+       "social_media": [
+				"facebook",
+				"instagram",
+				"anyOther"
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -80,15 +74,9 @@
         "telefone": "125143",
         "observacoes": "obs do museu puc",
         "social_media": [
-		{
-				"facebook": "www.facebook.com",
-		},
-		{
-				"instagram": "www.instagram.com",
-		},
-		{
-				"anyOther": "www.google.com"
-		}
+				"facebook",
+				"instagram",
+				"anyOther"
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -147,16 +135,10 @@
         "email": "museupuc@museupuc.com",
         "telefone": "125143",
         "observacoes": "obs do museu puc",
-        "social_media": [
-		{
-				"facebook": "www.facebook.com",
-		},
-		{
-				"instagram": "www.instagram.com",
-		},
-		{
-				"anyOther": "www.google.com"
-		}
+         "social_media": [
+				"facebook",
+				"instagram",
+				"anyOther"
         ],  
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
@@ -215,16 +197,10 @@
         "email": "museupuc@museupuc.com",
         "telefone": "125143",
         "observacoes": "obs do museu puc",
-        "social_media": [
-		{
-				"facebook": "www.facebook.com",
-		},
-		{
-				"instagram": "www.instagram.com",
-		},
-		{
-				"anyOther": "www.google.com"
-		}
+         "social_media": [
+				"facebook",
+				"instagram",
+				"anyOther"
         ],
         "imagens": [
           "https://i.imgur.com/L4RTGe2.jpg",
